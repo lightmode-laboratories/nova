@@ -60,12 +60,12 @@
 - [Nova-x64.dmg](https://github.com/lightmode-laboratories/nova/releases/latest/download/Nova-x64.dmg) — For Intel processors
 
 #### Windows
-- [Nova-Setup.exe](https://github.com/lightmode-laboratories/nova/releases/latest/download/Nova-Setup.exe) — Windows installer (64-bit)
+- [Nova-x64.exe](https://github.com/lightmode-laboratories/nova/releases/latest/download/Nova-x64.exe) — Windows installer (64-bit)
+- [Nova-ia32.exe](https://github.com/lightmode-laboratories/nova/releases/latest/download/Nova-ia32.exe) — Windows installer (32-bit)
 
 #### Linux
-- [Nova.AppImage](https://github.com/lightmode-laboratories/nova/releases/latest/download/Nova.AppImage) — Universal Linux package
-- [Nova.deb](https://github.com/lightmode-laboratories/nova/releases/latest/download/Nova.deb) — Debian/Ubuntu
-- [Nova.rpm](https://github.com/lightmode-laboratories/nova/releases/latest/download/Nova.rpm) — Fedora/RHEL
+- [Nova-x86_64.AppImage](https://github.com/lightmode-laboratories/nova/releases/latest/download/Nova-x86_64.AppImage) — Universal Linux package
+- [Nova-amd64.deb](https://github.com/lightmode-laboratories/nova/releases/latest/download/Nova-amd64.deb) — Debian/Ubuntu
 
 Or browse all versions on the [Releases](https://github.com/lightmode-laboratories/nova/releases) page.
 
@@ -78,25 +78,20 @@ Or browse all versions on the [Releases](https://github.com/lightmode-laboratori
 4. Launch Nova from Applications
 
 #### Windows
-1. Download Nova-Setup.exe
+1. Download the appropriate installer for your processor
 2. Run the installer
 3. Follow the installation wizard
 4. Launch Nova from the Start menu or desktop shortcut
 
 #### Linux
 **AppImage:**
-1. Download Nova.AppImage
-2. Make it executable: `chmod +x Nova.AppImage`
-3. Run: `./Nova.AppImage`
+1. Download Nova-x86_64.AppImage
+2. Make it executable: `chmod +x Nova-x86_64.AppImage`
+3. Run: `./Nova-x86_64.AppImage`
 
 **Debian/Ubuntu (.deb):**
-1. Download Nova.deb
-2. Install: `sudo dpkg -i Nova.deb`
-3. Launch: `nova` or find it in your applications menu
-
-**Fedora/RHEL (.rpm):**
-1. Download Nova.rpm
-2. Install: `sudo rpm -i Nova.rpm`
+1. Download Nova-amd64.deb
+2. Install: `sudo dpkg -i Nova-amd64.deb`
 3. Launch: `nova` or find it in your applications menu
 
 ## Update Channels
