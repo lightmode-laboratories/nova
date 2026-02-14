@@ -65,7 +65,9 @@
 
 #### Linux
 - [Nova-x86_64.AppImage](https://github.com/lightmode-laboratories/nova/releases/latest/download/Nova-x86_64.AppImage) — Universal Linux package
+- [Nova-arm64.AppImage](https://github.com/lightmode-laboratories/nova/releases/latest/download/Nova-arm64.AppImage) — Universal Linux package
 - [Nova-amd64.deb](https://github.com/lightmode-laboratories/nova/releases/latest/download/Nova-amd64.deb) — Debian/Ubuntu
+- [Nova-arm64.deb](https://github.com/lightmode-laboratories/nova/releases/latest/download/Nova-arm64.deb) — Debian/Ubuntu
 
 Or browse all versions on the [Releases](https://github.com/lightmode-laboratories/nova/releases) page.
 
@@ -85,12 +87,12 @@ Or browse all versions on the [Releases](https://github.com/lightmode-laboratori
 
 #### Linux
 **AppImage:**
-1. Download Nova-x86_64.AppImage or Nova-amd64.AppImage depending on your architecture
+1. Download `Nova-x86_64.AppImage` or `Nova-amd64.AppImage` depending on your architecture
 2. Make it executable: `chmod +x Nova-x86_64.AppImage` or `chmod +x Nova-amd64.AppImage`
 3. Run: `./Nova-x86_64.AppImage` or `./Nova-amd64.AppImage`
 
 **Debian/Ubuntu (.deb):**
-1. Download Nova-amd64.deb or Nova-arm64.deb depending on your architecture
+1. Download `Nova-amd64.deb` or `Nova-arm64.deb` depending on your architecture
 2. Install: `sudo dpkg -i Nova-amd64.deb` or `sudo dpkg -i Nova-arm64.deb`
 3. Launch: `nova` or find it in your applications menu
 
