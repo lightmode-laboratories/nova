@@ -36,7 +36,7 @@
 - **Cards** — Resizable thought containers that hold the pieces of what matters to you
 - **Multiple Grids** — Create unlimited grids for different contexts and switch between them seamlessly
 - **Grid Links** — Jump between grids to connect related thoughts across different contexts
-- **AI Cards** — Integrate with Anthropic, OpenAI, Google Gemini, and Grok for dynamic AI-powered insights
+- **AI Cards** — Integrate with Anthropic, OpenAI, Google Gemini, Grok, and Mistral for dynamic AI-powered insights
 - **Website Cards** — Monitor website snippets without daily refreshes, keeping important content visible
 - **Cloud Sync** — Seamlessly sync your data across devices with iCloud or Google Drive
 - **Themes** — Customize your experience with dark, light, or intermediate color schemes
@@ -60,8 +60,10 @@
 - [Nova-x64.dmg](https://github.com/lightmode-laboratories/nova/releases/latest/download/Nova-x64.dmg) — For Intel processors
 
 #### Windows
+- [Nova.exe](https://github.com/lightmode-laboratories/nova/releases/latest/download/Nova.exe) — Windows installer (universal)
 - [Nova-x64.exe](https://github.com/lightmode-laboratories/nova/releases/latest/download/Nova-x64.exe) — Windows installer (64-bit)
 - [Nova-ia32.exe](https://github.com/lightmode-laboratories/nova/releases/latest/download/Nova-ia32.exe) — Windows installer (32-bit)
+- [Nova-portable-x64.exe](https://github.com/lightmode-laboratories/nova/releases/latest/download/Nova-portable-x64.exe) — Portable version (no install, 64-bit)
 
 #### Linux
 - [Nova-x86_64.AppImage](https://github.com/lightmode-laboratories/nova/releases/latest/download/Nova-x86_64.AppImage) — Universal Linux package
