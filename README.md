@@ -1,23 +1,23 @@
 <p align="center">
-  <img src="https://github.com/lightmode-laboratories/nova/raw/master/assets/logo.png" alt="Nova Logo" height="120">
+  <img src="https://github.com/lightmode-laboratories/spacesuit/raw/master/assets/logo.png" alt="Spacesuit Logo" height="120">
 </p>
 
-<h1 align="center">Nova</h1>
+<h1 align="center">Spacesuit</h1>
 
 <p align="center">
   <strong>A futuristic canvas for your personal development</strong>
 </p>
 
 <p align="center">
-  <a href="https://nova.lightmode.io">nova.lightmode.io</a>
+  <a href="https://spacesuit.lightmode.io">spacesuit.lightmode.io</a>
 </p>
 
 <p align="center">
-  <img src="https://github.com/lightmode-laboratories/nova/raw/master/assets/screenshot.png" alt="Nova Screenshot" width="800">
+  <img src="https://github.com/lightmode-laboratories/spacesuit/raw/master/assets/screenshot.png" alt="Spacesuit Screenshot" width="800">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/lightmode-laboratories/nova?style=flat-square&color=6366f1&link=https://github.com/lightmode-laboratories/nova/releases/latest&cacheSeconds=300" alt="Latest Release">
+  <img src="https://img.shields.io/github/v/release/lightmode-laboratories/spacesuit?style=flat-square&color=6366f1&link=https://github.com/lightmode-laboratories/spacesuit/releases/latest&cacheSeconds=300" alt="Latest Release">
   <img src="https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey?style=flat-square" alt="Platform">
 </p>
 
@@ -40,7 +40,7 @@
 - **Website Cards** — Monitor website snippets without daily refreshes, keeping important content visible
 - **Cloud Sync** — Seamlessly sync your data across devices with iCloud or Google Drive
 - **Themes** — Customize your experience with dark, light, or intermediate color schemes
-- **Privacy First** — There is no Nova server: your data stays locally on your device or syncs directly with your chosen cloud provider
+- **Privacy First** — There is no Spacesuit server: your data stays locally on your device or syncs directly with your chosen cloud provider
 - **Auto Updates** — Stay current with seamless background updates
 
 ## Installation
@@ -56,51 +56,51 @@
 **Choose your platform:**
 
 #### macOS
-- [Nova-arm64.dmg](https://github.com/lightmode-laboratories/nova/releases/latest/download/Nova-arm64.dmg) — For Apple Silicon (M1, M2, M3, M4)
-- [Nova-x64.dmg](https://github.com/lightmode-laboratories/nova/releases/latest/download/Nova-x64.dmg) — For Intel processors
+- [Spacesuit-arm64.dmg](https://github.com/lightmode-laboratories/spacesuit/releases/latest/download/Spacesuit-arm64.dmg) — For Apple Silicon (M1, M2, M3, M4)
+- [Spacesuit-x64.dmg](https://github.com/lightmode-laboratories/spacesuit/releases/latest/download/Spacesuit-x64.dmg) — For Intel processors
 
 #### Windows
-- [Nova.exe](https://github.com/lightmode-laboratories/nova/releases/latest/download/Nova.exe) — Windows installer (universal)
-- [Nova-x64.exe](https://github.com/lightmode-laboratories/nova/releases/latest/download/Nova-x64.exe) — Windows installer (64-bit)
-- [Nova-ia32.exe](https://github.com/lightmode-laboratories/nova/releases/latest/download/Nova-ia32.exe) — Windows installer (32-bit)
-- [Nova-portable-x64.exe](https://github.com/lightmode-laboratories/nova/releases/latest/download/Nova-portable-x64.exe) — Portable version (no install, 64-bit)
+- [Spacesuit.exe](https://github.com/lightmode-laboratories/spacesuit/releases/latest/download/Spacesuit.exe) — Windows installer (universal)
+- [Spacesuit-x64.exe](https://github.com/lightmode-laboratories/spacesuit/releases/latest/download/Spacesuit-x64.exe) — Windows installer (64-bit)
+- [Spacesuit-ia32.exe](https://github.com/lightmode-laboratories/spacesuit/releases/latest/download/Spacesuit-ia32.exe) — Windows installer (32-bit)
+- [Spacesuit-portable-x64.exe](https://github.com/lightmode-laboratories/spacesuit/releases/latest/download/Spacesuit-portable-x64.exe) — Portable version (no install, 64-bit)
 
 #### Linux
-- [Nova-x86_64.AppImage](https://github.com/lightmode-laboratories/nova/releases/latest/download/Nova-x86_64.AppImage) — Universal Linux package
-- [Nova-arm64.AppImage](https://github.com/lightmode-laboratories/nova/releases/latest/download/Nova-arm64.AppImage) — Universal Linux package
-- [Nova-amd64.deb](https://github.com/lightmode-laboratories/nova/releases/latest/download/Nova-amd64.deb) — Debian/Ubuntu
-- [Nova-arm64.deb](https://github.com/lightmode-laboratories/nova/releases/latest/download/Nova-arm64.deb) — Debian/Ubuntu
+- [Spacesuit-x86_64.AppImage](https://github.com/lightmode-laboratories/spacesuit/releases/latest/download/Spacesuit-x86_64.AppImage) — Universal Linux package
+- [Spacesuit-arm64.AppImage](https://github.com/lightmode-laboratories/spacesuit/releases/latest/download/Spacesuit-arm64.AppImage) — Universal Linux package
+- [Spacesuit-amd64.deb](https://github.com/lightmode-laboratories/spacesuit/releases/latest/download/Spacesuit-amd64.deb) — Debian/Ubuntu
+- [Spacesuit-arm64.deb](https://github.com/lightmode-laboratories/spacesuit/releases/latest/download/Spacesuit-arm64.deb) — Debian/Ubuntu
 
-Or browse all versions on the [Releases](https://github.com/lightmode-laboratories/nova/releases) page.
+Or browse all versions on the [Releases](https://github.com/lightmode-laboratories/spacesuit/releases) page.
 
 ### Install
 
 #### macOS
 1. Download the appropriate installer for your processor
 2. Open the DMG file
-3. Drag Nova to your Applications folder
-4. Launch Nova from Applications
+3. Drag Spacesuit to your Applications folder
+4. Launch Spacesuit from Applications
 
 #### Windows
 1. Download the appropriate installer for your processor
 2. Run the installer
 3. Follow the installation wizard
-4. Launch Nova from the Start menu or desktop shortcut
+4. Launch Spacesuit from the Start menu or desktop shortcut
 
 #### Linux
 **AppImage:**
-1. Download `Nova-x86_64.AppImage` or `Nova-amd64.AppImage` depending on your architecture
-2. Make it executable: `chmod +x Nova-x86_64.AppImage` or `chmod +x Nova-amd64.AppImage`
-3. Run: `./Nova-x86_64.AppImage` or `./Nova-amd64.AppImage`
+1. Download `Spacesuit-x86_64.AppImage` or `Spacesuit-amd64.AppImage` depending on your architecture
+2. Make it executable: `chmod +x Spacesuit-x86_64.AppImage` or `chmod +x Spacesuit-amd64.AppImage`
+3. Run: `./Spacesuit-x86_64.AppImage` or `./Spacesuit-amd64.AppImage`
 
 **Debian/Ubuntu (.deb):**
-1. Download `Nova-amd64.deb` or `Nova-arm64.deb` depending on your architecture
-2. Install: `sudo dpkg -i Nova-amd64.deb` or `sudo dpkg -i Nova-arm64.deb`
-3. Launch: `nova` or find it in your applications menu
+1. Download `Spacesuit-amd64.deb` or `Spacesuit-arm64.deb` depending on your architecture
+2. Install: `sudo dpkg -i Spacesuit-amd64.deb` or `sudo dpkg -i Spacesuit-arm64.deb`
+3. Launch: `spacesuit` or find it in your applications menu
 
 ## Update Channels
 
-Nova offers three update channels to match your preferences:
+Spacesuit offers three update channels to match your preferences:
 
 | Channel | Description |
 |---------|-------------|
@@ -122,8 +122,8 @@ Change your update channel in **Settings → General**.
 
 ## Support
 
-- **Bug Report**: [Open an issue](https://github.com/lightmode-laboratories/nova/issues)
-- **Feedback**: nova@lightmode.io
+- **Bug Report**: [Open an issue](https://github.com/lightmode-laboratories/spacesuit/issues)
+- **Feedback**: spacesuit@lightmode.io
 
 ---
 
