@@ -36,8 +36,9 @@
 - **Cards** — Resizable thought containers that hold the pieces of what matters to you
 - **Multiple Grids** — Create unlimited grids for different contexts and switch between them seamlessly
 - **Grid Links** — Jump between grids to connect related thoughts across different contexts
-- **AI Cards** — Integrate with Anthropic, OpenAI, Google Gemini, Grok, and Mistral for dynamic AI-powered insights
-- **Website Cards** — Monitor website snippets without daily refreshes, keeping important content visible
+- **AI Processors** — Integrate with Anthropic, OpenAI, Google Gemini, Grok, and Mistral for dynamic AI-powered insights
+- **Websites** — Monitor website snippets without daily refreshes, keeping important content visible
+- **Fragments** — Sensory micro-interactions designed to help you detach, refocus, and take a step back
 - **Cloud Sync** — Seamlessly sync your data across devices with iCloud or Google Drive
 - **Themes** — Customize your experience with dark, light, or intermediate color schemes
 - **Privacy First** — There is no Spacesuit server: your data stays locally on your device or syncs directly with your chosen cloud provider
